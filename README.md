@@ -50,6 +50,10 @@ We are based on the image database of KEGG on neo4j which is in the charge of Li
 
 ![Overview](./notdiaotu1.png)
 
+### 3.0 Preparation for running codes
+
+You should first complete the "connect.sh" and "constant/db.py" for connecting to the neo4j database. And install modules in 3.3.5 section
+
 ### 3.1 Covid-19 Files
 
 #### 3.1.1 Non-NN method
