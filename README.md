@@ -88,7 +88,7 @@ You should complete the "connect.sh" and "constant/db.py" for connecting to the 
 
 #### 3.3.4 Copyright Mention
 
-The files in "database" folder are contributed to Li Biao.
+The files in "database" folder and majority of files in "constants" folder are contributed by Li Biao.
 
 #### 3.3.5 Requirement Modules
 
