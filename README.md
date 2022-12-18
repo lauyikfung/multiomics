@@ -90,11 +90,7 @@ Attention: you may need to update your jupyter version.
 
 You should complete the "connect.sh" and "constant/db.py" for connecting to the neo4j database.
 
-#### 3.3.4 Copyright Mention
-
-The files in "database" folder and majority of files in "constants" folder are contributed by Li Biao.
-
-#### 3.3.5 Requirement Modules
+#### 3.3.4 Requirement Modules
 
 ```
 neo4j
