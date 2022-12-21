@@ -34,7 +34,7 @@ After filtering according to KEGG database, we have chosen about 1k features.
 
 ## 2. Methods
 
-![Overview](./AI+X.jpg)
+![Overview](./all.png)
 
 Our main idea is to deconstruct the classification model to get the parameter matrices and get some information according to the matrix and prior knowledge of biology, especially metabology.
 
