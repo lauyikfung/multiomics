@@ -4,6 +4,8 @@ This is a repository of the researches on multiomics mainly by **Liu Yifeng**(Le
 
 This research also contains the main part of the AI+X course of Liu Yifeng (Conductor: Fang Zhixuan from *IIIS*)
 
+PDF is available at ./Medical\_Multi\_omics.pdf
+
 ## 1. Database and Dataset
 
 We are based on the **KEGG** database which contains 19418 compounds, 8005 enzymes, 50650 genes, 459 modules, 25252 orthologs, 690 pathways as well as 11776 reactions.
