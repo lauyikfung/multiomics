@@ -4,7 +4,7 @@ This is a repository of the researches on multiomics mainly by **Liu Yifeng**(Le
 
 This research also contains the main part of the AI+X course of Liu Yifeng (Conductor: Fang Zhixuan from *IIIS*)
 
-PDF is available at ./Medical\_Multi\_omics.pdf
+PDF is available at [Medical Multi-omics](https://github.com/lauyikfung/multiomics/blob/main/Medical_Multi_omics.pdf).
 
 ## 1. Database and Dataset
 
