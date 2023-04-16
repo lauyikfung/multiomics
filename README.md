@@ -1,6 +1,6 @@
 # Multiomics_code
 
-This is a repository of the researches on multiomics mainly by **Liu Yifeng**(Lewis Yik-fung Lau) of *IIIS* , **Li Biao** of *Shanghai Qi Zhi Institute* as well as **Zhao Yizi** from *School of Pharmaceutical Sciences, Tsinghua University*, who are also instructed by **Prof. Hu Zeping** from *School of Pharmaceutical Sciences, Tsinghua University* and **Prof. Yuan Yang** from *IIIS*. Also thanks **Prof. Sheng Wang** from University of Washington for help.
+This is a repository of the researches on multiomics mainly by **Liu Yifeng**(Lewis Yik-fung Lau) of *IIIS* , **Li Biao** of *Shanghai Qi Zhi Institute* as well as **Zhao Yizi** from *School of Pharmaceutical Sciences, Tsinghua University*, who are also instructed by **Prof. Hu Zeping** from *School of Pharmaceutical Sciences, Tsinghua University* and **Prof. Yuan Yang** from *IIIS*. Also thank **Prof. Sheng Wang** from University of Washington for help.
 
 This research also contains the main part of the AI+X course of Liu Yifeng (Conductor: Fang Zhixuan from *IIIS*)
 
@@ -112,4 +112,4 @@ Thanks to Li Biao for contribution of all the files in "database" folder and maj
 
 Thanks to Prof. Yuan, Prof. Hu, Li Biao, Zhao Yizi for advising.
 
-Thanks to Prof. Sheng Wang for helping.
+Thanks to Prof. Sheng Wang for help.
